@@ -28,7 +28,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+if (app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 app.UseStaticFiles(); // Essential for showing images
 app.UseRouting();
 
@@ -38,4 +41,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run(); // ONLY ONE RUN AT THE END
+var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
+app.Run($"http://*:{port}");

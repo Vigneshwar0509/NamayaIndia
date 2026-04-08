@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 90,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T17:55:23.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -43,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -51,21 +64,24 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-08T17:24:46.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T17:24:46.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T17:22:56.055Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },

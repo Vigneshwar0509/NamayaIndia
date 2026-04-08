@@ -3,156 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Win32.SystemEvents.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.SqlServer.Server.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.OpenApi.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Tokens.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Logging.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.JsonWebTokens.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Abstractions.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.Extensions.Msal.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.SqlServer.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Relational.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Abstractions.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Data.SqlClient.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Bcl.AsyncInterfaces.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.AspNetCore.Authentication.JwtBearer.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Identity.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Core.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\cashpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\cashpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\model\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:model\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\migrations\\20260325174006_removeachievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:migrations\\20260325174006_removeachievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|c:\\users\\admin\\downloads\\task\\namaya\\migrations\\20260325183233_addachievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{638E2C61-B911-4E6A-BCEB-8D4502147B0B}|Namaya.csproj|solutionrelative:migrations\\20260325183233_addachievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,547 +22,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 90,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-08T17:30:21.663Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-08T17:24:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:13:51.146Z",
+              "WhenOpened": "2026-04-08T17:22:56.055Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Microsoft.SqlServer.Server.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.SqlServer.Server.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.SqlServer.Server.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.SqlServer.Server.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.SqlServer.Server.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.194Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-22T12:15:10.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Microsoft.Win32.SystemEvents.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Win32.SystemEvents.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.Win32.SystemEvents.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Win32.SystemEvents.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.Win32.SystemEvents.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AchievementsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AchievementsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AchievementsController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AchievementsController.cs",
-              "RelativeToolTip": "Controllers\\AchievementsController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:25:04.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Namaya.deps.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.deps.json",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Namaya.deps.json",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.deps.json",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Namaya.deps.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-03T17:47:37.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Namaya.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Namaya.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Namaya.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Namaya.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Microsoft.OpenApi.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.OpenApi.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.OpenApi.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.OpenApi.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.OpenApi.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Microsoft.IdentityModel.Tokens.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Tokens.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Tokens.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Tokens.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Tokens.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:37.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Microsoft.IdentityModel.Protocols.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Protocols.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Protocols.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Protocols.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Microsoft.IdentityModel.Logging.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Logging.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Logging.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Logging.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Logging.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Microsoft.IdentityModel.JsonWebTokens.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.JsonWebTokens.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.JsonWebTokens.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.JsonWebTokens.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.JsonWebTokens.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Microsoft.IdentityModel.Abstractions.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Abstractions.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Abstractions.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.IdentityModel.Abstractions.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.IdentityModel.Abstractions.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Microsoft.Identity.Client.Extensions.Msal.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.Extensions.Msal.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.Identity.Client.Extensions.Msal.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.Extensions.Msal.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.Identity.Client.Extensions.Msal.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Microsoft.Identity.Client.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.Identity.Client.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Identity.Client.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.Identity.Client.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Microsoft.EntityFrameworkCore.SqlServer.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.SqlServer.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.SqlServer.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.SqlServer.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.SqlServer.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Microsoft.EntityFrameworkCore.Relational.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Relational.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.Relational.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Relational.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.Relational.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Microsoft.EntityFrameworkCore.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Microsoft.EntityFrameworkCore.Abstractions.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Abstractions.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.Abstractions.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.EntityFrameworkCore.Abstractions.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.EntityFrameworkCore.Abstractions.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Microsoft.Data.SqlClient.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Data.SqlClient.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.Data.SqlClient.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Data.SqlClient.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.Data.SqlClient.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Microsoft.Bcl.AsyncInterfaces.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Bcl.AsyncInterfaces.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.Bcl.AsyncInterfaces.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.Bcl.AsyncInterfaces.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.Bcl.AsyncInterfaces.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Azure.Identity.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Identity.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Azure.Identity.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Identity.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Azure.Identity.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Azure.Core.dll",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Core.dll",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\Azure.Core.dll",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\Azure.Core.dll",
-              "RelativeToolTip": "..\\..\\Namayapublish\\Azure.Core.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2026-04-03T17:47:36.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.json",
-              "RelativeToolTip": "..\\..\\Namayapublish\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-03T17:47:36.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "..\\..\\Namayapublish\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Namayapublish\\appsettings.Development.json",
-              "RelativeToolTip": "..\\..\\Namayapublish\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-03T17:47:35.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Payment.cs",
-              "RelativeDocumentMoniker": "Model\\Payment.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Payment.cs",
-              "RelativeToolTip": "Model\\Payment.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:20:31.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "Model\\Student.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Student.cs",
-              "RelativeToolTip": "Model\\Student.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:40:15.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\User.cs",
-              "RelativeToolTip": "Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:05:49.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "EventRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\EventRegistration.cs",
-              "RelativeDocumentMoniker": "Model\\EventRegistration.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\EventRegistration.cs",
-              "RelativeToolTip": "Model\\EventRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T14:02:56.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Event.cs",
-              "RelativeDocumentMoniker": "Model\\Event.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Event.cs",
-              "RelativeToolTip": "Model\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T14:02:29.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CashPaymentDto.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\CashPaymentDto.cs",
-              "RelativeDocumentMoniker": "Model\\CashPaymentDto.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\CashPaymentDto.cs",
-              "RelativeToolTip": "Model\\CashPaymentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T14:28:39.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Model\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Model\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:07:23.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Achievement.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Achievement.cs",
-              "RelativeDocumentMoniker": "Model\\Achievement.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Achievement.cs",
-              "RelativeToolTip": "Model\\Achievement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:24:25.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Attendance.cs",
-              "RelativeDocumentMoniker": "Model\\Attendance.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Model\\Attendance.cs",
-              "RelativeToolTip": "Model\\Attendance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T16:03:28.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AttendanceController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AttendanceController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AttendanceController.cs",
-              "RelativeToolTip": "Controllers\\AttendanceController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAAwH4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T16:04:10.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAowHQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:41:49.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAABBwBYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T12:06:32.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "Controllers\\EventsController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T14:03:22.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAqwJMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T17:19:32.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "FeesController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\FeesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FeesController.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Controllers\\FeesController.cs",
-              "RelativeToolTip": "Controllers\\FeesController.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAjwJ0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T17:21:00.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
         {
           "DockedHeight": 7,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "20260325174006_removeachievements.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Migrations\\20260325174006_removeachievements.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260325174006_removeachievements.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Migrations\\20260325174006_removeachievements.cs",
-              "RelativeToolTip": "Migrations\\20260325174006_removeachievements.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:40:06.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20260325183233_addachievements.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Migrations\\20260325183233_addachievements.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260325183233_addachievements.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\Task\\Namaya\\Migrations\\20260325183233_addachievements.cs",
-              "RelativeToolTip": "Migrations\\20260325183233_addachievements.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T18:32:33.743Z",
-              "EditorCaption": ""
             }
           ]
         }
