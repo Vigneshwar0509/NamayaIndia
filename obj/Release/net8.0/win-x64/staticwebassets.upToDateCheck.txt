@@ -1,0 +1,9 @@
+wwwroot\achievements\62c96591-4754-415a-bebe-6dc8d4a6608f.jpeg
+wwwroot\achievements\79dafeef-4429-4525-853f-1a23f90510ca.jpeg
+wwwroot\achievements\844aa513-7355-4d3d-97eb-e62e2320a4f0.jpeg
+wwwroot\events\2a465da4-f64e-4763-989c-46463c53263c.jpg
+wwwroot\events\488ebc7b-fd4f-4d6e-b610-a8795a93be77.webp
+wwwroot\events\83f57f6d-3c44-45b5-b707-5d5e8907b8c5.jpeg
+wwwroot\receipts\STU_1_March_3c253.png
+wwwroot\receipts\STU_1_March_f063a.jpeg
+wwwroot\receipts\STU_4_2c7b9.png
