@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Namaya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c5437e3246cd6125eac9b7e361156819419c93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+252fd0529cfc28dfab13bf6d7b14183bd29a94f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Namaya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Namaya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
